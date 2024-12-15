@@ -2,7 +2,8 @@
 
 Kelompok yang bernama azkario ini terdiri dari 2 orang:
 
-Azka Rasya Rahman Kaban(241401043) \n
+Azka Rasya Rahman Kaban(241401043) 
+
 Mario Jeconiah Purba(241401046)
 
 Nama dari program yang kami buat adalah program tiket penerbangan.
